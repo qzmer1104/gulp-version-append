@@ -1,0 +1,6 @@
+
+### 2017-07-04
+
+1.version改为timestamp以后自动维护
+
+2.prefix改为在gulpfile.js中配置，version.json删除
