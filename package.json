@@ -1,6 +1,6 @@
 {
   "name": "gulp-replacor",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "self modify",
   "main": "index.js",
   "directories": {
